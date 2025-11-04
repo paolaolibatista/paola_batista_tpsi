@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\atec\\UC00605\\WebApplication1\\WebApplication1.csproj": {}
+    "D:\\atec\\UC00604-605\\paola_batista_tpsi\\UC00605\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "D:\\atec\\UC00605\\WebApplication1\\WebApplication1.csproj": {
+    "D:\\atec\\UC00604-605\\paola_batista_tpsi\\UC00605\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\atec\\UC00605\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "D:\\atec\\UC00604-605\\paola_batista_tpsi\\UC00605\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "D:\\atec\\UC00605\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "D:\\atec\\UC00604-605\\paola_batista_tpsi\\UC00605\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\palol\\.nuget\\packages\\",
-        "outputPath": "D:\\atec\\UC00605\\WebApplication1\\obj\\",
+        "outputPath": "D:\\atec\\UC00604-605\\paola_batista_tpsi\\UC00605\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

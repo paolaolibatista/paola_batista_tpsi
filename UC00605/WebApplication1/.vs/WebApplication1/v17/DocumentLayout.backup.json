@@ -1,7 +1,28 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\atec\\UC00605\\WebApplication1\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\atec\\UC00604-605\\paola_batista_tpsi\\UC00605\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{781C6AD4-70BD-480A-BFC5-75B316B57668}|WebApplication1.csproj|d:\\atec\\uc00604-605\\paola_batista_tpsi\\uc00605\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781C6AD4-70BD-480A-BFC5-75B316B57668}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781C6AD4-70BD-480A-BFC5-75B316B57668}|StandAuto.csproj|d:\\atec\\uc00604-605\\paola_batista_tpsi\\uc00605\\webapplication1\\standauto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{781C6AD4-70BD-480A-BFC5-75B316B57668}|StandAuto.csproj|solutionrelative:standauto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781C6AD4-70BD-480A-BFC5-75B316B57668}|WebApplication1.csproj|d:\\atec\\uc00604-605\\paola_batista_tpsi\\uc00605\\webapplication1\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781C6AD4-70BD-480A-BFC5-75B316B57668}|WebApplication1.csproj|solutionrelative:controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781C6AD4-70BD-480A-BFC5-75B316B57668}|WebApplication1.csproj|d:\\atec\\uc00604-605\\paola_batista_tpsi\\uc00605\\webapplication1\\data\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781C6AD4-70BD-480A-BFC5-75B316B57668}|WebApplication1.csproj|solutionrelative:data\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781C6AD4-70BD-480A-BFC5-75B316B57668}|WebApplication1.csproj|d:\\atec\\uc00604-605\\paola_batista_tpsi\\uc00605\\webapplication1\\models\\standcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781C6AD4-70BD-480A-BFC5-75B316B57668}|WebApplication1.csproj|solutionrelative:models\\standcars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StandAuto.csproj",
+              "DocumentMoniker": "D:\\atec\\UC00604-605\\paola_batista_tpsi\\UC00605\\WebApplication1\\StandAuto.csproj",
+              "RelativeDocumentMoniker": "StandAuto.csproj",
+              "ToolTip": "D:\\atec\\UC00604-605\\paola_batista_tpsi\\UC00605\\WebApplication1\\StandAuto.csproj*",
+              "RelativeToolTip": "StandAuto.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-03T15:54:49.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\atec\\UC00604-605\\paola_batista_tpsi\\UC00605\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\atec\\UC00604-605\\paola_batista_tpsi\\UC00605\\WebApplication1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:53:47.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StandCars.cs",
+              "DocumentMoniker": "D:\\atec\\UC00604-605\\paola_batista_tpsi\\UC00605\\WebApplication1\\Models\\StandCars.cs",
+              "RelativeDocumentMoniker": "Models\\StandCars.cs",
+              "ToolTip": "D:\\atec\\UC00604-605\\paola_batista_tpsi\\UC00605\\WebApplication1\\Models\\StandCars.cs",
+              "RelativeToolTip": "Models\\StandCars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:53:25.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiContext.cs",
+              "DocumentMoniker": "D:\\atec\\UC00604-605\\paola_batista_tpsi\\UC00605\\WebApplication1\\Data\\ApiContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApiContext.cs",
+              "ToolTip": "D:\\atec\\UC00604-605\\paola_batista_tpsi\\UC00605\\WebApplication1\\Data\\ApiContext.cs",
+              "RelativeToolTip": "Data\\ApiContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:52:01.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "D:\\atec\\UC00604-605\\paola_batista_tpsi\\UC00605\\WebApplication1\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ValuesController.cs",
+              "ToolTip": "D:\\atec\\UC00604-605\\paola_batista_tpsi\\UC00605\\WebApplication1\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:33:15.351Z",
+              "EditorCaption": ""
             }
           ]
         }
